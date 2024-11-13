@@ -43,8 +43,7 @@ p, a, span, label, input textarea{
 
 li {
     color: var(--thirdText);
-    font-family: "Roboto Mono", monospace;
-
+    
 }
 
 a{
