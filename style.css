@@ -41,7 +41,7 @@ p, a, span, label, input textarea{
 
 }
 
-li{
+skills{
     color: var(--thirdText);
     font-fmaily: "Roboto Mono", monospace;
 }
