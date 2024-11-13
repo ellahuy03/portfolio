@@ -6,6 +6,7 @@
 
     --mainText: black;
     --secondaryText: #4b5156;
+    --thirdText: #4b5157;
 
     --themeDotBorder: #24292e;
 
@@ -36,6 +37,12 @@ h1, h2, h3, h4, h5, h6 strong{
 
 p, a, span, label, input textarea{
     color: var(--secondaryText);
+    font-family: "Roboto Mono", monospace;
+
+}
+
+li {
+    color: var(--thirdText);
     font-family: "Roboto Mono", monospace;
 
 }
