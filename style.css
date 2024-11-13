@@ -41,12 +41,8 @@ p, a, span, label, input textarea{
 
 }
 
-li {
+li{
     color: var(--thirdText);
-    font-fmaily: "Roboto Mono", monospace;
-}
-
-li {
     font-fmaily: "Roboto Mono", monospace;
 }
 
